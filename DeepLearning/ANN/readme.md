@@ -1,7 +1,13 @@
 ## Credit Card Fraud Detection (ANN)
 
 ### Architecture:
-- Artificial Neural Network (ANN)Objective: Classify credit card transactions as fraudulent or not.Dataset: Kaggle - Credit Card Fraud Detection
+- Artificial Neural Network (ANN)
+
+### Objective: 
+- Classify credit card transactions as fraudulent or not.
+
+### Dataset: 
+Kaggle - Credit Card Fraud Detection
 
 ### Highlights:
 
